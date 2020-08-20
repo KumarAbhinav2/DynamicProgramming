@@ -27,3 +27,16 @@ class Solution:
         for i in range(n):
             a, b = b, a+b
         return a
+
+    def climbStairs_dp(self, n):
+        if n<=2:
+            return n
+        dp = [0]*(n+1)
+        dp[2] = 2; dp[1]=1; dp[0]=1
+        # f(n) = f(n-1)+f(n-2)
+        for i in range(3, n+1):
+            dp[i] = dp[i-1]+dp[i-2]
+        return dp[n]
+
+obj = Solution()
+print(obj.climbStairs_dp(5))
