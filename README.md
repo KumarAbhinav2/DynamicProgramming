@@ -9,3 +9,7 @@ Repo is dedicated to host all leetcode DP problems (you can refer to leetcode by
 3. [Minimum cost of climbing the stairs](https://github.com/KumarAbhinav2/DynamicProgramming/blob/master/minCostClimbingStairs(LTE-746).py)
 
 4. [Nth Tribonacci numbers](https://github.com/KumarAbhinav2/DynamicProgramming/blob/master/nthTribonacciNumber(LTE-1137).py)
+
+5. [Coin change problem (no of ways)](https://github.com/KumarAbhinav2/DynamicProgramming/blob/master/coin_problem.py)
+
+6. [4Sum II ](https://github.com/KumarAbhinav2/DynamicProgramming/blob/master/4SumII(LTM-454).py)
