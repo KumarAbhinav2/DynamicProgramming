@@ -13,3 +13,5 @@ Repo is dedicated to host all leetcode DP problems (you can refer to leetcode by
 5. [Coin change problem (no of ways)](https://github.com/KumarAbhinav2/DynamicProgramming/blob/master/coin_problem.py)
 
 6. [4Sum II ](https://github.com/KumarAbhinav2/DynamicProgramming/blob/master/4SumII(LTM-454).py)
+
+7. [Divisor Game](https://github.com/KumarAbhinav2/DynamicProgramming/blob/master/divisorGame(LTM-1025).py)
