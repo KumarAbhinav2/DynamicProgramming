@@ -10,3 +10,4 @@ Repo is dedicated to host all leetcode DP problems (you can refer to leetcode by
 6. [4Sum II ](https://github.com/KumarAbhinav2/DynamicProgramming/blob/master/4SumII(LTM-454).py)
 7. [Divisor Game](https://github.com/KumarAbhinav2/DynamicProgramming/blob/master/divisorGame(LTM-1025).py)
 8. [Pascal's Triangle](https://github.com/KumarAbhinav2/DynamicProgramming/blob/master/pascal'sTriangle(LTE-118).py) 
+9. [Maximal Sqaure](https://github.com/KumarAbhinav2/DynamicProgramming/blob/master/maximalSquare(LTM-221).py) 
